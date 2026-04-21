@@ -3,5 +3,8 @@
     "@anthropic-ai/sdk": "^0.90.0",
     "papaparse": "^5.5.3",
     "recharts": "^3.8.1"
+  },
+  "devDependencies": {
+    "@types/papaparse": "^5.5.2"
   }
 }
